@@ -1,8 +1,12 @@
 {
-  "id": "auto-vision-radius",
   "name": "Auto Vision Radius",
   "version": "1.0.0",
   "manifest_version": 1,
-  "main": "index.js",
-  "type": "module"
+  "action": {
+    "title": "Auto Vision Radius",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "height": 600,
+    "width": 400
+  }
 }
