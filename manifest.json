@@ -1,12 +1,8 @@
 {
-  "name": "Auto Vision Radius",
+  "id": "hello-world",
+  "name": "Hello World",
   "version": "1.0.0",
   "manifest_version": 1,
-  "action": {
-    "title": "Auto Vision Radius",
-    "icon": "/icon.svg",
-    "popover": "/",
-    "height": 600,
-    "width": 400
-  }
+  "main": "index.js",
+  "type": "module"
 }
